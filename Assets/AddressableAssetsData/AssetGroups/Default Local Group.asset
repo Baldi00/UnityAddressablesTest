@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 57d69399a82055f40ba07b7141ebafd8
+  m_SerializeEntries:
+  - m_GUID: 352a29185c4edfe41974c7a9998c6207
+    m_Address: Assets/Scenes/VideoScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c67d40957000cc45a286674e3ce240f
+    m_Address: Assets/Videos/bad_apple.mp4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 58147ef01af1b244d9f43fcd5de63210, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bfc9e704b697c2d47bca1f93bc02aac0, type: 2}
+    - {fileID: 11400000, guid: 1c5c1c5262d44fa43bdb2d095d8afe82, type: 2}
