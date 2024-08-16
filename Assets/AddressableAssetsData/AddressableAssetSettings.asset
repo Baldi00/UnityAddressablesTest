@@ -63,7 +63,7 @@ MonoBehaviour:
       - m_Id: 3614c68199bf5a748b7a5b2ef1b18821
         m_Value: ServerData/[BuildTarget]
       - m_Id: a1ac15df393886e4c9a1702482d0912f
-        m_Value: ServerData/[BuildTarget]
+        m_Value: ftp://192.168.1.155:3721/ServerData/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: d9d1781144f932349886b083eec1f03e
       m_Name: BuildTarget
